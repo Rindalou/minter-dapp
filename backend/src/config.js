@@ -41,7 +41,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://preeminent-kheer-d223ac.netlify.app/", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
